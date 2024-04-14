@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "id": "d99e",
+      "name": "Shivam",
+      "email": "shivam@xyz.com",
+      "password": "Shiv@123"
+    },
+    {
+      "id": "f942",
+      "name": "Sam",
+      "email": "sam@xyz.com",
+      "password": "Shiv@123"
+    },
+    {
+      "id": "0fad",
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "raj@W123"
+    },
+    {
+      "id": "97ee",
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "raj@W123"
+    },
+    {
+      "id": "e937",
+      "username": "ruby",
+      "email": "ruby@gmail.com",
+      "password": "ruiby@123"
+    }
+  ]
+}
